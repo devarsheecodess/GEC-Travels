@@ -13,6 +13,7 @@
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
+                <li><a href="list.php">List</a></li>
                 <li><a href="https://www.gec.ac.in/" target="_blank">Contact</a></li>
             </ul>
         </nav>

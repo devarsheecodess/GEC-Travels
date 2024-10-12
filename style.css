@@ -75,6 +75,14 @@ section{
     margin-bottom: 10px;
 }
 
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(15, 110, 64);
+}
+
 form{
     display: flex;
     justify-content: center;
@@ -105,4 +113,25 @@ button{
 button:hover{
     background-color: rgb(81, 81, 146);
     transition-duration: 0.4s;
+}
+
+table {
+    width: 80%;
+    max-width: 1000px;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 0;
+    border: 1px solid #fff;
+}
+
+th {
+    background-color: #1b2539; 
+    color: white;
+}
+tr{
+    background-color: #f5f5f5;
 }
